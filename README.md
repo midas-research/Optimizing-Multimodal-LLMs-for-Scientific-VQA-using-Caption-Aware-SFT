@@ -1,1 +1,1 @@
-# Optimizing-Multimodal-LLMs-for-Scientific-VQA-using-Caption-Aware-SFT
+# Optimizing Multimodal LLMs for Scientific VQA
