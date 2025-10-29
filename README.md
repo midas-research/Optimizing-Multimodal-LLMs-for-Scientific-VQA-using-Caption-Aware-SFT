@@ -54,10 +54,11 @@ kapuriya22032@iiitd.ac.in
 If you use this dataset or build upon this work, please cite:
 
 ```
-@article{kapuriya2025enhancing,
+@inproceedings{kapuriya2025enhancing,
   title={Enhancing Scientific Visual Question Answering via Vision-Caption aware Supervised Fine-Tuning},
-  author={Kapuriya, Janak and Shaikh, Anwar and Goel, Arnav and Hira, Medha and Singh, Apoorv and Saraf, Jay and Nauriyal, Vaibhav and Anand, Avinash and Wang, Zhengkui and Shah, Rajiv Ratn},
-  journal={arXiv preprint arXiv:2509.16628},
+  author={Kapuriya, Janak and Shaikh, Anwar and Goel, Arnav and Hira, Medha and Singh, Apoorv and Saraf, Jay and Sanjana and Nauriyal, Vaibhav and Anand, Avinash and Wang, Zhengkui and others},
+  booktitle={Proceedings of the 2nd International Workshop on Large Vision-Language Model Learning and Applications},
+  pages={13--30},
   year={2025}
 }
 ```
